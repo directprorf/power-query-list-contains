@@ -32,5 +32,5 @@ in
     result                                                            //Выдаёт TRUE так как при сравнении игнорируется регистр.
 ```
 
-## Узнать больше о функциях в Power Query:  
+## 12 видео для новичков по Power Query:  
 https://www.youtube.com/playlist?list=PL3du-Tm1nAm6SSQOCpryquOx-6aasPARM
