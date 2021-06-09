@@ -1,6 +1,6 @@
 # Функция List.Contains в Power Query
 
-### Написание функции
+## Написание функции
 List.Contains(list, value, optional criteria)
 
 **Аргументы:**  
@@ -12,7 +12,7 @@ List.Contains(list, value, optional criteria)
 * если значение value содержится в списке list, выдаёт TRUE.  
 * если значение value не содержится в списке list, выдаёт FALSE.  
 
-### Примеры в коде
+## Примеры в коде
 ```
 let  
     letters = {"a","б","в","г"},  
