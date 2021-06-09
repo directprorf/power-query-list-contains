@@ -1,7 +1,7 @@
 # Функция List.Contains в Power Query
 
 ## Написание функции
-List.Contains(list, value, optional criteria)
+List.Contains( list, value, optional criteria )
 
 **Аргументы:**  
 * list - список значений,  
