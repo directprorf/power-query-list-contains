@@ -14,7 +14,7 @@ value - значение,
 
 ### Примеры
 let
-  letters = {"a","б","в","г"},
-  one = "А",
-  result = List.Contains(letters, one)
+letters = {"a","б","в","г"},
+one = "А",
+result = List.Contains(letters, one)
 in result
