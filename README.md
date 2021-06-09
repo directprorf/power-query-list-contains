@@ -13,8 +13,8 @@ List.Contains(list, value, optional criteria)
 * если значение value не содержится в списке list, выдаёт FALSE.  
 
 ### Примеры
-let  
-    letters = {"a","б","в","г"},  
-    one = "А",  
-    result = List.Contains(letters, one)  
-in result  
+```let  
+```    letters = {"a","б","в","г"},  
+```    one = "А",  
+```    result = List.Contains(letters, one)  
+```in result  
